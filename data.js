@@ -139,7 +139,7 @@ var dataJSON=`
         "parentPlate":"BK10_7-3",
         "containsYeast": false,
         "containsBacteria": true
-      },
+      }
     ]
   }
 }
