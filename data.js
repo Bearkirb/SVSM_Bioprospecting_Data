@@ -118,25 +118,25 @@ var dataJSON=`
       },
       {
         "name": "BK1A2",
-        "parentPlate":"BK4_7-1",
+        "parentPlate":"BK1A1",
         "containsYeast": true,
         "containsBacteria": false
       },
       {
         "name": "BK4A2",
-        "parentPlate":"BK6_7-1",
+        "parentPlate":"BK4A1",
         "containsYeast": true,
         "containsBacteria": false
       },
       {
         "name": "BK4B2",
-        "parentPlate":"BK9_7-3",
+        "parentPlate":"BK4B1",
         "containsYeast": true,
         "containsBacteria": false
       },
       {
         "name": "BK9A2",
-        "parentPlate":"BK10_7-3",
+        "parentPlate":"BK9A1",
         "containsYeast": true,
         "containsBacteria": false
       }
