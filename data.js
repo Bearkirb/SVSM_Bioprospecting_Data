@@ -20,6 +20,11 @@ var dataJSON=`
         "sampledBy": "Benny Kirby"
       },
       {
+        "name": "PI04_6-30",
+        "sampleDescription": "Sampled from the surface of two unripe wine grapes (Sauvignon Blanc) growing outside the App State fermentation lab, Boone NC",
+        "sampledBy": "Praneel I"
+      },
+      {
         "name": "BK4_7-1",
         "sampleDescription": "From the inside of an Azalea flower on the North Summit of the Elk knob summit trail, Boone NC",
         "sampledBy": "Benny Kirby"
