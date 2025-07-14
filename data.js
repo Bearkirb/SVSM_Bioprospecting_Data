@@ -101,7 +101,7 @@ var dataJSON=`
         "name": "BK4B1",
         "parentPlate":"BK4_7-1",
         "containsYeast": true,
-        "containsBacteria": false
+        "containsBacteria": true
       },
       {
         "name": "BK6A1",
